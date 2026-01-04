@@ -79,7 +79,7 @@ class _CharacterSelectionScreenState extends State<CharacterSelectionScreen> {
               ),
               const SizedBox(width: 12),
               Text(
-                '삼책지계',
+                '삼지묘책',
                 style: Theme.of(context).textTheme.titleLarge?.copyWith(
                       color: Colors.white.withOpacity(0.9),
                       letterSpacing: 2,
@@ -184,7 +184,7 @@ class _CharacterSelectionScreenState extends State<CharacterSelectionScreen> {
                       ),
                       const SizedBox(width: 10),
                       Text(
-                        '삼책지계',
+                        '삼지묘책',
                         style: Theme.of(context).textTheme.titleLarge?.copyWith(
                               color: AppColors.goldAccent,
                               fontWeight: FontWeight.bold,

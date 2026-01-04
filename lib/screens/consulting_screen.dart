@@ -101,7 +101,7 @@ class _ConsultingScreenState extends State<ConsultingScreen> {
           ),
           const SizedBox(width: 12),
           Text(
-            '삼책지계',
+            '삼지묘책',
             style: Theme.of(context).textTheme.titleMedium?.copyWith(
                   fontWeight: FontWeight.bold,
                 ),

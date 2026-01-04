@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (_) => AppProvider()..initialize(),
       child: MaterialApp(
-        title: '삼책지계',
+        title: '삼지묘책',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.darkTheme,
         home: const CharacterSelectionScreen(),

@@ -132,7 +132,7 @@ class _ResultScreenState extends State<ResultScreen> {
           ),
           const SizedBox(width: 12),
           Text(
-            '삼책지계',
+            '삼지묘책',
             style: Theme.of(context).textTheme.titleMedium?.copyWith(
                   fontWeight: FontWeight.bold,
                 ),
